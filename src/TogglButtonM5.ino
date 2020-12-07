@@ -498,7 +498,7 @@ void TogglTask( void* param){
     Menu.SetDescriptionEntrys(4,"Check Teams");
     Menu.SetDescriptionEntrys(5,"Review (payed)");
     Menu.SetDescriptionEntrys(6,"Review (shop)");
-    Menu.SetDescriptionEntrys(7,"Article wirting");
+    Menu.SetDescriptionEntrys(7,"Article writing");
     Menu.SetDescriptionEntrys(8,"Coding");
     Menu.SetDescriptionEntrys(9,"GoProof");
     Menu.SetDescriptionEntrys(10,"Make Photos");

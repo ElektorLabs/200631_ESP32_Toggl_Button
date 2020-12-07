@@ -231,7 +231,7 @@ int8_t ToggleStopCurrentEntry( String apikey){
         delay( 100 );
         if(retry_count>3){
             #if TOGGL_DEBUG > 0
-                Serial.println("Connetion error");
+                Serial.println("Connection error");
             #endif
             return -1;
         }
